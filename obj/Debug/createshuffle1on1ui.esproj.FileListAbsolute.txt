@@ -1,0 +1,2 @@
+C:\Users\holly\source\repos\createshuffle1on1ui\createshuffle1on1ui\obj\Debug\createshuffle1on1ui.esproj.SuggestedBindingRedirects.cache
+C:\Users\holly\source\repos\createshuffle1on1ui\createshuffle1on1ui\obj\Debug\createshuffle1on1ui.esproj.CoreCompileInputs.cache
